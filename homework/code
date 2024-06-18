@@ -1,1 +1,2 @@
-
+conmit yum install -y mysql-community-server
+grep 'temporary password' /var/log/mysqld.log
